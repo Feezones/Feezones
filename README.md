@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe!
 
-<!--
-**Feezones/Feezones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor .NET e Angular  
+🚀 Apaixonado por criar soluções web e SaaS  
+📚 Estudando Clean Architecture e Testes Automatizados
 
-Here are some ideas to get you started:
+### 🧰 Tecnologias que uso:
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=dotnet)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 GitHub Stats:
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+
+### 📫 Contato:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/seu-usuario)
