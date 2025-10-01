@@ -2,7 +2,6 @@
 
 💻 Desenvolvedor .NET e Angular  
 🚀 Apaixonado por criar soluções web e SaaS  
-📚 Estudando Clean Architecture e Testes Automatizados
 
 ### 🧰 Tecnologias que uso:
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
