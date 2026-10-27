@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Felipe!
 
-💻 Desenvolvedor .NET e Angular  
-🚀 Apaixonado por criar soluções web e SaaS  
+💻 Desenvolvedor .NET e Angular
 
 ### 🧰 Tecnologias que uso:
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
